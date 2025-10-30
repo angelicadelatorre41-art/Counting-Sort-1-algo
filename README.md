@@ -1,1 +1,1 @@
-# Counting-Sort-1-algo
+# Counting-Sort-1-algo The program creates an array of size 100 to count how many times each number (0–99) appears in the input list. It then returns this frequency list, which represents the counting sort result for the given data.
